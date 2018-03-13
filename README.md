@@ -2,4 +2,4 @@
 
 This is the code of my Kaggle Mercari Price Suggestion Challenge. Some of code are written with reference to the solution of competitors in forums and I hereby express my gratitude to their spirit of share. 
 
-<img src="./images/mercari.png">
+<img src="./image/mercari.png">
